@@ -28,4 +28,4 @@ function moveDodgerLeft() {
     if (left > 0) {
       dodger.style.left = `${left - 1}px`;
     }
-} 
+}
